@@ -41,11 +41,11 @@ A planilha permite calcular:
 ## 📸 Capturas de tela
 
 ### Entrada de Dados  
-![Entrada] (./images/entrada.png)
+(./images/entrada.png)
 ### Simulação Mensal
-![Simulacao] (./images/simulação.png)
+(./images/simulação.png)
 ### Gráficos
-![Gráficos] (./images/graficos.png)
+(./images/graficos.png)
 
 
 ## 🛠️ Como usar
