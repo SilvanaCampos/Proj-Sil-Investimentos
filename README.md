@@ -62,7 +62,6 @@ A planilha permite calcular:
 - Criação de gráficos comparativos para análise de curto e longo prazo.
 - Documentação técnica e compartilhamento no GitHub.
 
-
 ## 📄 Licença
 
 - Este projeto é de uso educacional e pode ser adaptado livremente.
